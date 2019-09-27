@@ -72,9 +72,9 @@ This soulution uses Lambda function to perform the following:
 ## Step2: Implementation
 1. Download the lamda code.<br/>
         A. To perform checks on a single aws region:<br/>
-        Option 1: download [singleRegionTags.zip](https://github.com/ericsoi/AWS-Tag-Compliance/singleRegionTags.zip).<br/>
-        Option 2: download single region split function. [instancestags.zip](https://github.com/ericsoi/AWS-Tag-Compliance/instancestags.zip) and [resourcetags.zip](https://github.com/enquizit/DDD-EQ-Tasks/blob/development/Task%2017/resourcetags.zip) and create two functions.<br/>
-        B. To perform checks on all aws regions, download [allRegionTags.zip](https://github.com/ericsoi/AWS-Tag-Compliance/allRegionTags.zip).<br/>
+        Option 1: download [singleRegionTags.zip](https://github.com/ericsoi/AWS-Tag-Compliance/blob/master//singleRegionTags.zip).<br/>
+        Option 2: download single region split function. [instancestags.zip](https://github.com/ericsoi/AWS-Tag-Compliance/blob/master//instancestags.zip) and [resourcetags.zip](https://github.com/ericsoi/AWS-Tag-Compliance/blob/master//resourcetags.zip) and create two functions.<br/>
+        B. To perform checks on all aws regions, download [allRegionTags.zip](https://github.com/ericsoi/AWS-Tag-Compliance/blob/master//allRegionTags.zip).<br/>
 
 
 2. Change to AWS **Lambda** console under services
